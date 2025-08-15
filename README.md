@@ -1,7 +1,6 @@
 # Free SS Executor GUI
 
 A free Roblox script executor GUI made by **LunarPulse0**.  
-Designed for educational purposes and learning Roblox scripting.
 
 ---
 
