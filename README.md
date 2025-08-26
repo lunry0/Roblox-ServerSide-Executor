@@ -14,7 +14,7 @@ A free Roblox script executor GUI made by **LunarPulse0**.
 ## Setup
 
 1. Put the **vLua Module** and **RemoteEvent 'ExecuteScript'** in **ReplicatedStorage**.  
-2. Place the main script (`Place Me In ServerScriptService :D`) in **ServerScriptService**.  
+2. Place the main script (`Place Me In ServerScriptService :D`or`SS`) in **ServerScriptService**.  
 3. Add the **ScreenGui** to **StarterGui**.  
 4. Done! You can toggle the credits with the `Enable?` BoolValue.
 
