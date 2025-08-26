@@ -31,6 +31,7 @@ You can download the GUI from the [Releases](https://github.com/lunry0/Roblox-Se
 ## Screenshots
 
 ![Screenshot 2](screenshot2.png)
+![Screenshot 3](ScreenShotV2.png)
 
 ---
 
